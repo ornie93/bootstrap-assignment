@@ -1,0 +1,10 @@
+.footer-links a{
+    display: block;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: blue;
+}
+
+.footer-links a:hover{
+    color:white;
+}
